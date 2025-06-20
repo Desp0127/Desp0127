@@ -1,4 +1,4 @@
-🔴Learned Python/C/Html/Php/Visual Basics
+🔴Python/C/Html/Php/Visual Basics
 
 🟡Currently into Data Analysis and ML
 
