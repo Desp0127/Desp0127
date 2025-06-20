@@ -1,5 +1,5 @@
 🔴Python/C/Html/Php/Visual Basics
 
-🟡Currently into Data Analysis and ML
+🟡Practising Data Analysis and ML
 
-🟢Working on HAYIC 2015
+🟢Working on HAYIC 2025
