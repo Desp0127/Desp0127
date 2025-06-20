@@ -1,4 +1,4 @@
-🔴Python/C/Html
+🔴Learned Python/C/Html
 
 🟠Learning Pandas/Php/Vbs
 
