@@ -6,6 +6,7 @@ I already know:
 - Html
 - Php
 - MySQL
+
 Currently studying:
 - Assembly
 - Visual Basics
