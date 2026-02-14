@@ -1,10 +1,11 @@
 Hello! I'm Despoina, and I'm currently a student in Data Analysis 📈 and Machine Learning ⚙️
 
 I already know:
-- Python 
+- Python (Pandas, NumPy, Matplotlib)
 - C
 - Html
 - Php
+- MySQL
+Currently studying:
+- Assembly
 - Visual Basics
-
-I'm open to learning new things!
