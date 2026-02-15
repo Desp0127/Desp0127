@@ -1,4 +1,4 @@
-Hello! I'm Despoina, and I'm a student in Data Analysis and Machine Learning
+Hello! I'm Despoina, and I'm a student in Data Analysis and Machine Learning, and I'm interested in Cyber Security and Engineering.
 
 I already know:
 - Python (Pandas, NumPy, Matplotlib)
@@ -10,5 +10,3 @@ I already know:
 Currently studying:
 - Assembly
 - Visual Basics
-
-I'm interested in learning Cyber Security and Engineering
